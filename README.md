@@ -1,9 +1,15 @@
 #Java Program to Send an Email
 
-ï	Login to gmail using email ID and password.
-ï	Goto : https://www.google.com/settings/security/lesssecureapps 
-ï	Allow Secure Apps: ON
-ï	Create a Java Project in Eclipse ñ Add 2 jars(activation.jar & mail.jar) to build path. 
-ï	Create a class "SendMail.java" in source folder and transfer the code which is in "SendMail.java" of this Git Repo.
-ï	Fill out the required details.(username, password, receiver email, sender email, subject, message body).
-ï	Run the program- ìmessage send successfullyî  will ensure that the message was successfully sent.
+‚Ä¢	Login to gmail using email ID and password.
+
+‚Ä¢	Goto : https://www.google.com/settings/security/lesssecureapps 
+
+‚Ä¢	Allow Secure Apps: ON
+
+‚Ä¢	Create a Java Project in Eclipse ‚Äì Add 2 jars(activation.jar & mail.jar) to build path. 
+
+‚Ä¢	Create a class "SendMail.java" in source folder and transfer the code which is in "SendMail.java" of this Git Repo.
+
+‚Ä¢	Fill out the required details.(username, password, receiver email, sender email, subject, message body).
+
+‚Ä¢	Run the program- ‚Äúmessage send successfully‚Äù  will ensure that the message was successfully sent.
